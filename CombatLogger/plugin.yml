@@ -1,6 +1,6 @@
 name: CombatLogger
-version: 1.0.0
-api: [1.0.0]
-author: Lambo
+version: 2.0.0
+api: [3.0.0-ALPHA6, 3.0.1]
+author: Zeao
 main: Lambo\CombatLogger\Main
 description: Stop players from logging out during a fight
